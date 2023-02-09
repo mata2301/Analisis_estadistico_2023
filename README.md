@@ -3,3 +3,4 @@ almacenar mi código del curso de Análisis estadístico
 
 Semana 1: preparación de las plataformas y computadora 
 
+Semana 2: 
