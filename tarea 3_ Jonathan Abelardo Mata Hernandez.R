@@ -143,4 +143,83 @@ mean(set)
 set5 <-(set+5)
 set5
 
+#MODA
 
+mfv(set5)
+
+#MEDIANA
+
+median(set)
+
+#MEDIA
+
+mean(set5)
+
+#Compare los resultados de las partes (a) y (b). En general, ¿cómo crees quela moda, lamediana y la media se ven afectadas cuando se agrega la misma constante a cada valorde datos en un conjunto?
+
+#R= no afecta pero si se incrementan los valores 
+
+#Multipliquecada valor de los datos por 5. Calcule la moda, la mediana y la media.
+
+set.5 <- (set*5)
+set.5
+
+#MODA
+
+mfv(set.5)
+
+#MEDIANA
+
+median(set.5)
+
+#MEDIA
+
+mean(set.5)
+
+
+#Compare los resultados de las partes (a) y (d). En general, ¿cómo crees que la moda,La mediana y la media se ven afectadas cuando cada valor de datos en un conjunto semultiplica por la misma constante?
+
+#R= se incrementan los valores exppnencialmente 
+
+
+#problema 7
+
+#Para este problema, 
+
+#use los dígitos 0, 1, 2, 3, 4, 5, 6, 7, 8, 9.
+
+digitos <- c(0,1,2,3,4,5,6,7,8,9)
+digitos
+
+median(digitos)
+
+#a) Enumere cinco dígitos que tengan una mediana de 7 y una media de 7 (se permiten repeticiones). En contrar un conjunto diferente de 5 dígitos que tambien funcionen.
+
+digitos1 <- c(5, 6, 7, 8, 9)
+digitos1
+
+#MEDIANA
+median(digitos1)
+
+#MEDIA
+mean(digitos1)
+
+#Enumere cinco dígitos que tengan una mediana de 7 y una media inferior a 7 (se permiten repeticiones). Da la media de tus 5 dígitos. Encuentra un conjunto diferente de 5 dígitos que funcione.
+
+digitos2 <- c(5, 4, 7, 8, 9)
+digitos2
+
+#MEDIANA
+median(digitos2)
+
+#MEDIA
+mean(digitos2)
+
+digitos3 <- c(5,5,7,8,9)
+digitos3
+
+#MEDIANA
+median(digitos3)
+
+#MEDIA 
+mean(digitos3)
