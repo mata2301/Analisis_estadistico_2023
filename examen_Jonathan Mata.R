@@ -126,5 +126,5 @@ TukeyHSD(anova)
 
 #pregunta 16
 #en caso de existir difrencias ¿cuales son diferntes estadisticamente entre si en el contenido de arcilla en el perfil de 30-50?
-#la zona 1 y 2 no tienen diferencias significativas pero, la zona 3-1, 4-1, 3.2, 4-2, 4-3, tienen diferencias significativas. 
+#la zona 1 y 2 no tienen diferencias significativas pero, la zona 3-1, 4-1, 3.2, 4-2, 4-3, tienen diferencias significativas. .
 
