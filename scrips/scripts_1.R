@@ -100,6 +100,6 @@ boxplot(Fert$IE ~ Fert$Tratamiento,
         main = "Vivero Bosque Escuela",
         las = 1,
         ylim =c(0.4, 1.4))
-
+#
 
 
