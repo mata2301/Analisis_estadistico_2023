@@ -1,18 +1,19 @@
-# Analisis_estadistico_2023
+#Analisis_estadistico_2023
+
 almacenar mi código del curso de Análisis estadístico 
 
-Semana 1: preparación de las plataformas y computadora 
+Clase 1: Creación de cuenta de GitHub y sincornización de Git con RStudio
 
-Semana 2
+Clase 2: Elaboración de Script con operaciones y estadistica basica, boxplot, histogramas e importación base de datos
 
-Semana 3 
+Clase 3: Importar datos desde URL's, funcion subset(), representaciones graficas (histogramas, barplot)
 
-Semana 4
+Clase 4: Resumir datos graficamente (Grafica circular, histogramas)
 
-Semana 5
+Clase 5: Repaso de estadistica basica, importar base de datos en linea y elaboracion de histogramas
 
-Semana 6
+Clase 6: Correlación, cuarteto de anscombe, coeficiente de correlación
 
-Semana 7
+Clase 7: Repaso de boxplots y correlación
 
-Semana 8
+Clase 8: Examen practico en RStudio
